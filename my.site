@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Behance</h1> 
+ <u><a href="https://www.behance.net/">Сайт Behance </a></u>
+  <h2>Опис сайту-приклада</h2> <br>
+  <i> <b>Behance</b> - це онлайн-платформа для творчих людей, яка дозволяє художникам, дизайнерам, фотографам, графічним дизайнерам, ілюстраторам демонструвати свої роботи, спілкуватися зі спільнотою та знаходити натхнення. Ось ключовий перелік можливостей, які пропонує Behance:</i> <br>
+  <p><li>Користувачі можуть створити власний профіль, додавши інформацію про себе, свої навички та інтереси</li> <br>
+  <li>Behance надає можливість завантажувати свої роботи та створювати вражаючі портфоліо, які легко організувати та показати світу.</li> <br>
+  <li>Користувачі можуть створювати та вказувати участь у проектах, взаємодіяти з іншими творчими спеціалістами та отримувати фідбек щодо своєї роботи.</li></p> <br>
+  
+   <img src="https://miro.medium.com/v2/resize:fit:1200/1*WfyrTAW8XCyTC93c0fhRkg.png" width="1000" height="500" /> 
+  <h2>Аналог сайту-приклада</h2> 
+  <h1>Handcraft</h1> <br>
+  <i> <b>Handcraft</b> - це онлайн-платформа, де творці ручних робіт можуть поділитися своїми унікальними проектами та продавати власні вироби. Спеціалізація платформи полягає в ручному в'язанні, пошитті, кастомізації одягу, виготовленні сумок та багатьох інших видів рукоділля. Існує кілька способів заробітку з цього сайту: </i> <br>
+  <p><li>Стягування комісії з кожної угоди: Платформа може забирати певний процент від кожної продажу, здійсненого через сайт. </li> <br>
+  <li>Реклама: Платформа може співпрацювати з рекламодавцями і дозволяти розміщення рекламних банерів чи спонсорованих дописів на сайті. </li> <br>
+  <li>Платні підписки: Платформа може пропонувати користувачам платні підписки на різні рівні облікових записів з різними функціями та можливостями.</li> <br>
+   <br>
+ <img src="https://i.ibb.co/5WKqR0B/behance.png" width="500" height="500" /><img src="https://i.ibb.co/GnnV8bS/image.jpg" width="500" height="500" /> 
+  
+ 
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/@KatierinaPriadk/Hello#behance.png"></script>
+</body>
+
+</html>
